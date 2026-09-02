@@ -1,0 +1,7 @@
+{
+  "name": "DEV_Israfil",
+  "description": "Premium Coding Resource Platform to explore, preview, upload, and download coding projects, source codes, and web resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
